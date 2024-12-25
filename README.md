@@ -1,2 +1,3 @@
 # gitlearn
-learning git 
+learning git with claudio 
+
